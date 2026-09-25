@@ -2,6 +2,7 @@ Assignments
 data/
 .ipynb_checkpoints
 **/.ipynb_checkpoints/
+**.pdf
 
 # Настройки IDE
 .vscode/
