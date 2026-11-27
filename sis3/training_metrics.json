@@ -1,0 +1,8 @@
+{
+  "random_state": 42,
+  "test_rows": 200,
+  "accuracy": 0.75,
+  "precision_bad_risk": 0.5581,
+  "recall_bad_risk": 0.8,
+  "f1_bad_risk": 0.6575
+}

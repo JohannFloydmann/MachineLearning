@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+training_metrics.json
+mlflow.db*
+mlartifacts/
+mlruns/
+mlflow_data/
